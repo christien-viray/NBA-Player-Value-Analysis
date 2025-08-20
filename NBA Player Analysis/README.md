@@ -2,7 +2,7 @@ NBA Player Value Analysis
 Author: Christien Viray
 
 
-This mini-project analyzes the value of NBA players based on their performance stats and salary during the 2023-2024 season. Using Python and Excel, I explored metrics like Player Efficiency Rating (PER), games played, minutes played, and PER per million dollars to determine which players give the most value to their teams.
+This project analyzes the value of NBA players based on their performance stats and salary during the 2023-2024 season. Using Python and Excel, I explored metrics like Player Efficiency Rating (PER), games played, minutes played, and PER per million dollars to determine which players give the most value to their teams.
 
 
 Summary
@@ -43,4 +43,5 @@ Notes
 - Value is subjective — it depends on team goals (e.g., budget, role needs).
 - Reaves and Bane offer different kinds of value: 
 	- Reaves: Cost-efficient, solid performance 
+
 	- Bane: High quality performance, higher salary.
