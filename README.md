@@ -18,7 +18,6 @@ Files Included
 - 'cleaned_pergame_and_advance_2023_w_salaries.csv': Original dataset from: https://www.kaggle.com/datasets/albarpambagio/nba-player-    stats-and-salaries-2014-2023?resource=download
 - 'nba_valuablePlayers_cleaned.csv': File exported from Python after cleaning, filtering, and visualizations
 - 'visuals': folder containing visualizations from Excel and Python
-- 'README.txt': This file.
 
 
 Libraries Used
@@ -43,4 +42,5 @@ Notes
 - Value is subjective — it depends on team goals (e.g., budget, role needs).
 - Reaves and Bane offer different kinds of value: 
 	- Reaves: Cost-efficient, solid performance 
+
 	- Bane: High quality performance, higher salary.
