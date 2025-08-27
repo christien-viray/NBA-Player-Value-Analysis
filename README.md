@@ -42,5 +42,5 @@ Notes
 - Value is subjective — it depends on team goals (e.g., budget, role needs).
 - Reaves and Bane offer different kinds of value: 
 	- Reaves: Cost-efficient, solid performance 
-
 	- Bane: High quality performance, higher salary.
+
