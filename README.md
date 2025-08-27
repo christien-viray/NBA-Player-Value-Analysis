@@ -15,7 +15,8 @@ Summary
 Files Included
 - 'main.ipynb': Python script with cleaning, filtering, and visualizations.
 - 'nba_valuablePlayers_summaryTable.xlsx': Excel file with summary table and visualization.
-- 'cleaned_pergame_and_advance_2023_w_salaries.csv': Original dataset from: https://www.kaggle.com/datasets/albarpambagio/nba-player-stats-and-salaries-2014-2023?resource=download
+- 'cleaned_pergame_and_advance_2023_w_salaries.csv': Original dataset from:
+  https://www.kaggle.com/datasets/albarpambagio/nba-player-stats-and-salaries-2014-2023?resource=download
 - 'nba_valuablePlayers_cleaned.csv': File exported from Python after cleaning, filtering, and visualizations
 - 'visuals': folder containing visualizations from Excel and Python
 
@@ -41,6 +42,7 @@ Key Findings and Notes
 - Bane represented high performance at a reasonable cost. While Bane had a higher salary than Reaves, he delivered elite level PER of around 18, providing star quality production without a top tier salary.
  - Other players either offered lower PERs based on their adjusted salaries while others offered exceptional PERs but their salaries were just too high.
  - In summary, Austin Reaves and Desmond Bane are the most valuable players for their teams relative to their salaries. Austin Reaves would be the better option for teams who want a high potential player for a lower cost. Desmond Bane would be the better option for teams who want elite level perofrmance at a non-max salary.
+
 
 
 
