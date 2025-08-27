@@ -1,8 +1,8 @@
 NBA Player Value Analysis
-Author: Christien Viray
+Author: Christien Bryan Reyes Viray
 
 
-This project analyzes the value of NBA players based on their performance stats and salary during the 2023-2024 season. Using Python and Excel, I explored metrics like Player Efficiency Rating (PER), games played, minutes played, and PER per million dollars to determine which players give the most value to their teams.
+This project analyzes the value of NBA players based on their performance stats and salary during the 2022-2023 season. Using Python and Excel, I explored metrics like Player Efficiency Rating (PER), games played, minutes played, and PER per million dollars to determine which players gives the most value to their teams.
 
 
 Summary
@@ -31,16 +31,15 @@ Visuals
 - Python Charts: visuals/Python Visuals
 
 
-How to Run
-1. Install required libraries using pip (if not already installed):
-	pip install pandas matplotlib seaborn
-2. Open main.ipynb file in VS Code
-3. Run each cell from top to bottom to clean, filter, generate visualizations, and export csv file
+Key Findings and Notes
+- To ensure a fair and meaningful comparison of value, the analysis was scoped to regular season statistics and applied 2 key filters:
+    - Minutes Played: Only players averaging more than 24 minutes per game were included to focus on core rotational players whose contributions are essential and consistent
+    - Adjusted Salary: Only players with an adjusted salary greater than $1 million were included to filter out reserve players on minimum contracts whose high PER-to-salary ratio could skew results
+- The results came down to the top 7 most valuable players being Alpren Sengun, Desmond Bane, Tyrese Maxey, Immanuel Quickley, Tre Jones, KJ Martin, and Austin Reaves.
+- Austin Reaves and Desmond Bane emerged as the two most valuable players based on performance-to-salary efficiency
+- Reaves respresented the peak of cost-efficienct as he was the lowest-paid player out of the top 7. He delivered near league average PER around 15, offering exceptional value and significant potential.
+- Bane represented high performance at a reasonable cost. While Bane had a higher salary than Reaves, he delivered elite level PER of around 18, providing star quality production without a top tier salary.
+ - Other players either offered lower PERs based on their adjusted salaries while others offered exceptional PERs but their salaries were just too high.
+ - In summary, Austin Reaves and Desmond Bane are the most valuable players for their teams relative to their salaries. Austin Reaves would be the better option for teams who want a high potential player for a lower cost. Desmond Bane would be the better option for teams who want elite level perofrmance at a non-max salary.
 
-
-Notes
-- Value is subjective — it depends on team goals (e.g., budget, role needs).
-- Reaves and Bane offer different kinds of value: 
-	- Reaves: Cost-efficient, solid performance 
-	- Bane: High quality performance, higher salary.
 
